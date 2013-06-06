@@ -5,6 +5,7 @@ A personal Android application for mapping the access point strengths for a curr
 The results will be used to create a fingerprint of an indoor position.
 
 ![Mapping][1] 
+<<<<<<< HEAD
 
 Register mapping scans for the current position. Set a unique session id, number of scans to be done, and delay (in seconds) between each scan.
 
@@ -18,6 +19,17 @@ List of all visible access points, sorted by signal strength.
 
 ![Example Image][3]
 
+=======
+Register mapping scans for the current position. Set a unique session id, number of scans to be done, and delay (in seconds) between each scan.
+
+![Registering scans][4] 
+For each scan it will register the phone's orientation (x, y, z) and all visible access points. 
+
+![Example Image][2]
+List of all visible access points, sorted by signal strength.
+
+![Example Image][3]
+>>>>>>> 7717a073b1d1f2c4fc3ce6e06d4e98594e51e99d
 Tag access points.
 
 
@@ -42,8 +54,11 @@ Access points tags are stored in 'sdcard/wifimapper/tagger.txt'.
 	00\:1d\:70\:98\:b9\:81=TAG oppe
 	00\:21\:d8\:44\:2e\:71=TAG
 	...
+<<<<<<< HEAD
 	
 *This is an old application and has a lot of possible improvements*
+=======
+>>>>>>> 7717a073b1d1f2c4fc3ce6e06d4e98594e51e99d
 
  [1]: https://lh3.googleusercontent.com/-wmAuCO7opOA/UbCKnqSYChI/AAAAAAAACSg/SOvvZhbdw3w/s400/Screenshot_2013-06-06-15-07-01.png
  [2]: https://lh5.googleusercontent.com/-EI6Bhu_DjiY/UbCKmG2swYI/AAAAAAAACSY/b58685-0gdA/s400/Screenshot_2013-06-06-15-07-33.png
