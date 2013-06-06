@@ -4,21 +4,25 @@ Wi-Fi Mapper
 A personal Android application for mapping the access point strengths for a current location. 
 The results will be used to create a fingerprint of an indoor position.
 
-![Mapping][1] 
+_____
 
 Register mapping scans for the current position. Set a unique session id, number of scans to be done, and delay (in seconds) between each scan.
 
-![Registering scans][4] 
+![Mapping][1] 
 
 For each scan it will register the phone's orientation (x, y, z) and all visible access points. 
 
-![Example Image][2]
+![Registering scans][4] 
 
 List of all visible access points, sorted by signal strength.
 
-![Example Image][3]
+![Example Image][2]
+
 
 Tag access points.
+
+
+![Example Image][3]
 
 _____
 
