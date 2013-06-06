@@ -42,6 +42,8 @@ Access points tags are stored in 'sdcard/wifimapper/tagger.txt'.
 	00\:1d\:70\:98\:b9\:81=TAG oppe
 	00\:21\:d8\:44\:2e\:71=TAG
 	...
+	
+*This is an old application and has a lot of possible improvements*
 
  [1]: https://lh3.googleusercontent.com/-wmAuCO7opOA/UbCKnqSYChI/AAAAAAAACSg/SOvvZhbdw3w/s400/Screenshot_2013-06-06-15-07-01.png
  [2]: https://lh5.googleusercontent.com/-EI6Bhu_DjiY/UbCKmG2swYI/AAAAAAAACSY/b58685-0gdA/s400/Screenshot_2013-06-06-15-07-33.png
