@@ -21,9 +21,11 @@ List of all visible access points, sorted by signal strength.
 Register mapping scans for the current position. Set a unique session id, number of scans to be done, and delay (in seconds) between each scan.
 
 ![Registering scans][4] 
+
 For each scan it will register the phone's orientation (x, y, z) and all visible access points. 
 
 ![Example Image][2]
+
 List of all visible access points, sorted by signal strength.
 
 ![Example Image][3]
