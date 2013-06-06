@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WifiMapperActivity!</string>
+    <string name="app_name">Wi-Fi Mapper</string>
+    
+    <string name="mapper">Mapper</string>
+    <string name="tagger">Tagger</string>
+    <string name="wifis">Wi-Fi\'s</string>
+    
+    <string name="filter">Filter</string>
+    
+    <string name="wifi_router">Router</string>
+    <string name="wifi_connectedto">Connected to: </string>
+    <string name="wifi_connectedto_none">Not connected to a Wi-Fi</string>
+    <string name="wifi_connectedto_notenabled">Wi-Fi is not enabled</string>
+    <string name="wifi_ssid">SSID</string>
+    <string name="wifi_bssid">BSSID</string>
+    <string name="wifi_level">Level</string>
+    <string name="wifi_dbm">dBm</string>
+    <string name="wifi_frequency">Frequency</string>
+    <string name="wifi_mhz">MHz</string>
+    <string name="wifi_wifi">Wi-Fi</string>
+    <string name="wifi_searching">Searching for Wi-Fi\'s</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_connected">Connected</string>
+    <string name="wifi_tag">Tag Wi-Fi</string>
+    <string name="map_session">Session</string>
+    <string name="map_scans">Scans</string>
+    <string name="map_delay">Delay</string>
+    <string name="map_orientation">Orientation</string>
+    <string name="map_status">Status</string>
+    <string name="map_register">Register</string>
+    <string name="map_stop">Stop</string>
+    <string name="map_id">Id</string>
+    <string name="tags">Tags</string>
+
+</resources>
