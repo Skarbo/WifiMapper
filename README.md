@@ -18,7 +18,6 @@ List of all visible access points, sorted by signal strength.
 
 ![Example Image][3]
 
-=======
 Register mapping scans for the current position. Set a unique session id, number of scans to be done, and delay (in seconds) between each scan.
 
 ![Registering scans][4] 
@@ -31,6 +30,7 @@ List of all visible access points, sorted by signal strength.
 
 Tag access points.
 
+=======
 
 Scans are stored in 'sdcard/wifimapper/mapper/[id]_[session]_[date].txt'. 
 SSID, MAC address, signal, and frequency are stored for each access point.
