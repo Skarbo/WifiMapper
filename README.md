@@ -37,10 +37,10 @@ SSID, MAC address, signal, and frequency are stored for each access point.
 	%SSID|00:21:d8:44:18:71|-69|2437
 	...
 	
-Access points tags are stored in 'sdcard/wifimapper/tagger.txt'.
+Access point tags are stored in 'sdcard/wifimapper/tagger.txt'.
 	
 	00\:1d\:a1\:76\:d6\:51=TAG
-	00\:1d\:70\:98\:b9\:81=TAG oppe
+	00\:1d\:70\:98\:b9\:81=TAG
 	00\:21\:d8\:44\:2e\:71=TAG
 	...
 
