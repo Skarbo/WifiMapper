@@ -20,7 +20,7 @@ List of all visible access points, sorted by signal strength.
 
 Tag access points.
 
-=======
+_____
 
 Scans are stored in 'sdcard/wifimapper/mapper/[id]_[session]_[date].txt'. 
 SSID, MAC address, signal, and frequency are stored for each access point.
